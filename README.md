@@ -24,7 +24,7 @@ To use the password generator you simply have to click the "Generate Password" b
 
 Once the button is pressed you will be prompted to enter a number for the length (A number outside of the range will cause a message indicating an incorrect input)
 
-![Number prompt image](<Num Length.png>)
+![Number prompt image](<assets/Readme Images/Num Length.png>)
 
 After a proper number is input it will follow with four more prompts indicating your choice of characters you wish to involve in the random generation
 
@@ -32,7 +32,7 @@ At least one of the character prompts must be selected or the generator will sta
 
 Once all the prompts have been selected as true (ok) or false (cancel) then a password will be generated
 
-![generated password image](<Generated password.png>)
+![generated password image](<assets/Readme Images/Generated password.png>)
 
 After your password is generated you can copy the text field and paste it where is is needed
 ## Credits
